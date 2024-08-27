@@ -48,6 +48,14 @@ body {
     font-size: calc(14px + 0.5vw);
     text-align: center;
     max-width: 60vw;
+    line-height: 3rem;
+}
+
+.text-backed-by {
+    font-size: calc(14px + 0.5vw);
+    text-align: center;
+    max-width: 60vw;
+    margin-top: 3vh;
 }
 
 .backers {
@@ -58,6 +66,7 @@ body {
     gap: 3vw;
     width: 100%;
     max-width: 60vw;
+    margin-top: 2vh;
 }
 
 .backer-image {
