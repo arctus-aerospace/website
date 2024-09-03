@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arctus.space/sitemap.xml
